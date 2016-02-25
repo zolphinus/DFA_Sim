@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1456376321 source:c:\users\zolphinus\documents\github\dfa sim\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"DFA_Node.h"
+
+1456375478 c:\users\zolphinus\documents\github\dfa sim\dfa_node.h
+	<map>
+	<string>
+	<sstream>
+
